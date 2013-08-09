@@ -1,5 +1,5 @@
-Applescript Universal Media Player Control
-==========================================
+Applescript Media Player Controller
+===================================
 
 AppleScripts that check for the current music player and controls whichever was used last. Allows external controllers or hotkeys to control iTunes, Spotify and Rdio without needing separate mappings for each app.
 
